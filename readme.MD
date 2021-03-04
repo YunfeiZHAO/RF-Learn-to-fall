@@ -1,4 +1,4 @@
-# NeurIPS 2019 Challenge : Learn to Move - Walk Around 
+# Learn to fall by reinforcement learning
 
 ## Algorithm
 
